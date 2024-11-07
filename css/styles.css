@@ -1,0 +1,54 @@
+body{
+
+    font-family: sans-serif;
+
+}
+
+.generaciones__titulo{
+    color: lightskyblue;
+    text-decoration: underline;
+}
+
+.parrafo {
+    font-size: 1.5rem;
+}
+
+.parrafo__segunda{
+    font-size: 1.5rem;
+}
+
+
+.parrafo__primera{
+    font-size: 1.5rem;
+}
+
+.parrafo__tercero{
+    font-size: 1.5rem;
+}
+
+.primeraGeneracion__titulo{
+    color: green;
+    font-size: 2rem;
+}
+
+.segundaGeneracion__titulo{
+    color: green;
+    font-size: 2rem;
+
+}
+
+.terceraGeneracion__titulo{
+    color: green;
+    font-size: 2rem;
+
+}
+
+.imagen__segunda{
+    width: 21rem;
+    height: 15rem;
+}
+
+.imagen__tercera{
+    width: 25rem;
+    height: 15rem;
+}
